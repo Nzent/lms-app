@@ -1,4 +1,7 @@
-# Laravel LMS
+
+# SterlinLMS A Laravel LMS System
+
+<img width="100%" height="720" alt="Screenshot 2025-10-15 033631" src="https://github.com/user-attachments/assets/b3829954-bee5-4ab0-9399-34dcdc1251ff" />
 
 A simple Learning Management System built with Laravel and Tailwind CSS for managing students, courses, and batches.
 
