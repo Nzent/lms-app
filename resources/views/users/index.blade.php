@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Users List - LMS')
+@section('title', 'Sterlin LMS')
 
 @section('content')
     <div class="mb-8">

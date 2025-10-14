@@ -13,7 +13,7 @@
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         <!-- Personal Details Card -->
         <div class="lg:col-span-1">
-            <div class="bg-white rounded-lg shadow-md p-6">
+            <div class="bg-white rounded-lg shadow-lg p-6">
                 <h2 class="text-2xl font-bold text-slate-800 mb-4 border-b pb-3">Personal Details</h2>
                 <div class="space-y-4">
                     <div>
@@ -47,7 +47,7 @@
         <!-- Course & Batch Details Card -->
         <div class="lg:col-span-2 space-y-6">
             <!-- Batch Details -->
-            <div class="bg-white rounded-lg shadow-md p-6">
+            <div class="bg-white rounded-lg shadow-lg p-6">
                 <h2 class="text-2xl font-bold text-slate-800 mb-4 border-b pb-3">Batch Details</h2>
                 <div class="grid grid-cols-2 gap-4">
                     <div>
@@ -62,7 +62,7 @@
             </div>
 
             <!-- Course Details -->
-            <div class="bg-white rounded-lg shadow-md p-6">
+            <div class="bg-white rounded-lg shadow-lg p-6">
                 <h2 class="text-2xl font-bold text-slate-800 mb-4 border-b pb-3">Enrolled Courses</h2>
                 @forelse($user->courses as $course)
                     <div class="mb-4 pb-4 border-b last:border-b-0 last:mb-0 last:pb-0">
